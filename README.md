@@ -3,6 +3,8 @@
 Punktezähler und Regel-Nachschlagewerk für das Kartenspiel **CABO** —
 als installierbare Web-App (PWA) fürs Handy.
 
+**Live: https://marki85.github.io/cabo/**
+
 ## Funktionen
 
 - **Punkteingabe pro Runde** mit automatischer Strafpunkt-Berechnung:
@@ -17,7 +19,8 @@ als installierbare Web-App (PWA) fürs Handy.
 
 ## Auf dem iPhone installieren
 
-Die Seite in **Safari** öffnen → Teilen-Symbol → „Zum Home-Bildschirm".
+https://marki85.github.io/cabo/ in **Safari** öffnen → Teilen-Symbol →
+„Zum Home-Bildschirm".
 Danach startet sie im Vollbild mit eigenem Icon und funktioniert ohne Netz.
 
 ## Lokal starten
